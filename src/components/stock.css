@@ -1,0 +1,12 @@
+.App-S1 input,button
+{
+  padding: 0.5em 1.5em;
+}
+.App-S1 :focus
+{
+  background-color: rgb(127, 187, 255);
+}
+.App-Stock
+{
+  justify-content: center;
+}
