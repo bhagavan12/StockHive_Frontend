@@ -1,5 +1,5 @@
 {
-  "name": "react-website-v2",
+  "name": "stockhive",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,9 +9,10 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "axios": "^1.7.2",
     "plotly.js": "^2.20.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-icon": "^1.0.0",
     "react-icons": "^3.10.0",
     "react-plotly.js": "^2.6.0",
